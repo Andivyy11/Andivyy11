@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Andivyy11
+- 👋 Hi, I’m Anuradha
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning full stack
-- 💞️ I’m looking to collaborate on ...
-- 
+- 💞️ I like solving coding problems
 
 <!---
 Andivyy11/Andivyy11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
